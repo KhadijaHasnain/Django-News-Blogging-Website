@@ -1,0 +1,13 @@
+Commands:
+1. django-admin startproject Inventory (make project)
+2.python manage.py migrate (commect to Database)
+3.py manage.py createsuperuser ( admin name )
+user : admin 
+gmail : admin@gmail.com
+password: admin@gmail
+
+URL : http://127.0.0.1:8000/accounts/login/?next=/ ( user login )
+      http://127.0.0.1:8000/accounts/signup/ (user signup)
+      http://127.0.0.1:8000/admin/login/?next=/admin/ (admin login)
+      http://127.0.0.1:8000/admin/ (admin page)
+      
